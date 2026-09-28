@@ -1,0 +1,22 @@
+{
+    "version": "0.36.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/zsltg/iq/releases/download/v0.36.0/iq_0.36.0_windows_amd64.zip",
+            "bin": [
+                "iq.exe"
+            ],
+            "hash": "a65518061db4a2e6b9a06e8e2ac42d03321e2b71c1c7ba274061345391e908ff"
+        },
+        "arm64": {
+            "url": "https://github.com/zsltg/iq/releases/download/v0.36.0/iq_0.36.0_windows_arm64.zip",
+            "bin": [
+                "iq.exe"
+            ],
+            "hash": "75bebf0ccab185aa552ce666eec1d44d58c3a6a7cd08760935690e7f0b2f398f"
+        }
+    },
+    "homepage": "https://github.com/zsltg/iq",
+    "license": "MIT",
+    "description": "jq for NoSQL databases. Use iq to query, dump, copy, diff and write data across Redis, MongoDB, Cassandra, DynamoDB, Elasticsearch, OpenSearch, CouchDB, Couchbase, HBase and Neo4j instances, from a single static binary."
+}
