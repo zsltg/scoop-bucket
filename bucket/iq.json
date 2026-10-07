@@ -1,19 +1,19 @@
 {
-    "version": "0.38.1",
+    "version": "0.38.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zsltg/iq/releases/download/v0.38.1/iq_0.38.1_windows_amd64.zip",
+            "url": "https://github.com/zsltg/iq/releases/download/v0.38.2/iq_0.38.2_windows_amd64.zip",
             "bin": [
                 "iq.exe"
             ],
-            "hash": "c81edcee9ad5d18419cd15fa46b9d0577a2ec509c8e054770c806a084a9ee248"
+            "hash": "f0fb3325f67ceabcd2b0e9384f5a023e7e13113f68fad6698f0cfb65d84e096a"
         },
         "arm64": {
-            "url": "https://github.com/zsltg/iq/releases/download/v0.38.1/iq_0.38.1_windows_arm64.zip",
+            "url": "https://github.com/zsltg/iq/releases/download/v0.38.2/iq_0.38.2_windows_arm64.zip",
             "bin": [
                 "iq.exe"
             ],
-            "hash": "6820a598ae25fa88e8014f87bcbfe00286c94508999474a5af021c7e3442c980"
+            "hash": "6413a3ec0deb86290dbabe3646b8daeb3ce0005e6c481636a25d688885f047a5"
         }
     },
     "homepage": "https://github.com/zsltg/iq",
